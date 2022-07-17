@@ -10,6 +10,11 @@ d = {
     "email" : "pratyusha@gmail.com",
     "surname" : "ghanta"
 }
+d = {
+    "name" : "pratyusha",
+    "email" : "pratyusha@gmail.com",
+    "surname" : "ghanta"
+}
 
 db1 = client['mongotest']
 col1 = db1['test']
